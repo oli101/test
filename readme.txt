@@ -42,3 +42,6 @@ You won't see any output in the terminal, but the contents of your public key wi
 In case you're curious, the pbpaste utility works the other way, allowing you to easily grab the contents of the clipboard for use in the terminal. For example, the following command will write the contents of the clipboard to a file:
 
 $ pbpaste > ~/clipboard.text
+
+
+HP AFT
